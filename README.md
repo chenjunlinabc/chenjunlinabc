@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Blog](https://chenjunlin.me) 
+欢迎访问 [Blog](https://chenjunlin.me) 
 
 <!--
 **chenjunlinabc/chenjunlinabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
