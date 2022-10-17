@@ -6,5 +6,3 @@
 <img alt="chenjunlinabc's Github chart" src="https://ghchart.rshah.org/chenjunlinabc" />
 
 [![chenjunlinabc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjunlinabc)](https://github.com/anuraghazra/github-readme-stats)
-
-![chenjunlinabc's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunlinabc)
