@@ -20,18 +20,17 @@ Web：
 
 Dev Ops:
 <p>
-  <imp alt="linux" src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux">
+  <imp alt="linux" src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  
-
-  
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
   
 </p>
 
 Backend:
 <p>
+    <img alt="Go" src="https://img.shields.io/badge/-go-79d4fd?style=flat-square&logo=Go&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-2b5a83?style=flat-square&logo=Python&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="redis" src="https://img.shields.io/badge/-redis-ff0000?style=flat-square&logo=redis" />
+    <img alt="redis" src="https://img.shields.io/badge/-redis-F05032?style=flat-square&logo=redis" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
