@@ -32,6 +32,6 @@ Dev Ops:
 Backend:
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="redis" src="https://img.shields.io/badge/-redis-fff?style=flat-square&logo=redis" />
+    <img alt="redis" src="https://img.shields.io/badge/-redis-ff0000?style=flat-square&logo=redis" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
