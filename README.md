@@ -35,6 +35,4 @@ Backend:
     <img alt="redis" src="https://img.shields.io/badge/-redis-F05032?style=flat-square&logo=redis" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenjunlinabc&theme=github' width='800'/>
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenjunlinabc&theme=github' width="500"/>
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenjunlinabc&theme=github' width="500"/>
+
