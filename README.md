@@ -5,7 +5,7 @@ Languages : JavaScript，Golang，Python
 
 
 <p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-fff?style=flat-square&logo=windows" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0000ff?style=flat-square&logo=windows" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
