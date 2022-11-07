@@ -30,8 +30,11 @@ Backend:
 <p>
     <img alt="Go" src="https://img.shields.io/badge/-go-79d4fd?style=flat-square&logo=Go&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-2b5a83?style=flat-square&logo=Python&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="redis" src="https://img.shields.io/badge/-redis-F05032?style=flat-square&logo=redis" />
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenjunlinabc&theme=github'/>
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenjunlinabc&theme=github'/>
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenjunlinabc&theme=github'/>
