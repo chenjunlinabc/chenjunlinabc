@@ -1,5 +1,5 @@
-Blog：<a href="https://cjlio.com" align="center">https://cjlio.com</a>
-Email：<a href="mailto:a@cjlio.com" align="center">a@cjlio.com</a>
+Blog：<a href="https://xiaochenabc.github.io" align="center">xiaochenabc.github.io</a>
+Email：<a href="mailto:xiaochenabc123@qq.com" align="center">xiaochenabc123@qq.com</a>
 
 Languages : JavaScript，Golang，Python
 
