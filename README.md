@@ -1,5 +1,5 @@
 Blog：<a href="https://chenjunlinabc.github.io/" align="center">https://chenjunlinabc.github.io/</a>
-Email：<a href="mailto:xiaochenabc123@qq.com" align="center">195551690@qq.com</a>
+Email：<a href="mailto:195551690@qq.com" align="center">195551690@qq.com</a>
 
 Languages : JavaScript，Golang，Python，Rust
 
